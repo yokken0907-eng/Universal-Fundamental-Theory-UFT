@@ -1,7 +1,7 @@
 Universal Fundamental Theory (UFT) Ver 6.0
 This repository is the official archive for the Universal Fundamental Theory (UFT). UFT is a unified physical framework that bridges cosmology, geology, and information physics.
 
-📄 Official Paper()
+📄 [Read on vixra]()
 
 ## 📚 Comprehensive Guide (English Edition)
 * [Chapter 1: Quantum Substrate Dynamics](Chapter1_EN.md)
@@ -18,4 +18,4 @@ This repository is the official archive for the Universal Fundamental Theory (UF
 * [Download Full Paper (PDF)](宇宙基幹論_Ver6.0_完全版論文.pdf)
 
 ☕ Support the Research
-[buymeacoffee.com/yokken](https://buymeacoffee.com/yokken)
+[Support my research on Buy Me a Coffee](https://buymeacoffee.com/yokken)
