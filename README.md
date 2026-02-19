@@ -1,25 +1,19 @@
-Title:
+Universal Fundamental Theory (UFT) Ver 6.0
+This repository is the official archive for the Universal Fundamental Theory (UFT). UFT is a unified physical framework that bridges cosmology, geology, and information physics.
 
-Universal Fundamental Theory (UFT) - Ver 6.0
-Description:
-This repository hosts the official documentation, papers, and conceptual frameworks of the Universal Fundamental Theory (UFT).
+📄 Official Paper
+[疑わしいリンクは削除されました] 
 
-UFT is a new physical paradigm that redefines the vacuum as a physical superfluid lattice (Quantum Substrate) and derives fundamental constants from geometric projections of the E8 lattice.
+📚 Comprehensive Guide (Japanese / English)
+For a detailed explanation of the theory, please refer to the following chapters:
 
-Key Resolutions in Ver 6.0:
-Hubble Tension: Resolved through vacuum viscosity and G-variance.
+Chapter 1: Quantum Substrate Dynamics (QSD)
 
-Earth's Heat Budget: Identification of a Primordial Black Hole (PBH) core.
+Chapter 2: Geometric Derivation of Constants
 
-Fine-Structure Constant: Geometric derivation with 0.0005% accuracy.
+Chapter 3: Resolving Cosmic and Geological Anomalies
 
-【日本語概要】
-本リポジトリは「宇宙基幹論 (UFT) Ver 6.0」の公式文書および解説を格納しています。
-宇宙を物理的な流体（量子基層）として再定義し、幾何学的なアプローチから現代物理学の主要なパラドックスを解消します。
+Chapter 4: Information Physics and Consciousness
 
-主な解決内容:
-ハッブル・テンションの解消（真空粘性による補正）
-
-地球熱収支問題の解決（中心核原始ブラックホールの特定）
-
-微細構造定数の幾何学的導出（E8格子射影による計算）
+☕ Support the Research
+buymeacoffee.com/yokken
