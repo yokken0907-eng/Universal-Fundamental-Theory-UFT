@@ -16,4 +16,4 @@ Chapter 3: Resolving Cosmic and Geological Anomalies
 Chapter 4: Information Physics and Consciousness
 
 ☕ Support the Research
-buymeacoffee.com/yokken
+[buymeacoffee.com/yokken](https://buymeacoffee.com/yokken)
