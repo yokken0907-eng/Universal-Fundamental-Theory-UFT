@@ -9,7 +9,7 @@ This repository is the official archive for the Universal Fundamental Theory (UF
 * [Chapter 2: Geometric Derivation of Constants](Chapter2_EN.md)
 * [Chapter 3: Resolving Cosmic and Geological Anomalies](Chapter3_EN.md)
 * [Chapter 4: Information Physics and the Emergence of Consciousness](Chapter4_EN.md)
-* [Universal_Fundamental_Theory_v6.pdf](https://github.com/yokken0907-eng/Universal-Fundamental-Theory-UFT/blob/85e9a79dc9c3c1ca5d5d070271b21ecf0f1437cf/Universal_Fundamental_Theory_v6.pdf)
+* [Download Full Paper (PDF)](Universal_Fundamental_Theory_v6.pdf)
 
 ## 📚 宇宙基幹論 解読読本 (日本語版)
 * [第1章：量子基層力学 (QSD)](Chapter1.md)
