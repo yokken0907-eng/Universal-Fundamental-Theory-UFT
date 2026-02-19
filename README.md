@@ -16,6 +16,7 @@ This repository is the official archive for the Universal Fundamental Theory (UF
 * [第2章：幾何学的定数導出](Chapter2.md)
 * [第3章：宇宙・地質学的矛盾の解消](Chapter3.md)
 * [第4章：情報物理学と意識の創発](Chapter4.md)
+* [宇宙基幹論_Ver6.0_完全版論文]()
 
 ☕ Support the Research
 [buymeacoffee.com/yokken](https://buymeacoffee.com/yokken)
