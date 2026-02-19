@@ -17,5 +17,4 @@ This repository is the official archive for the Universal Fundamental Theory (UF
 * [第4章：情報物理学と意識の創発](Chapter4.md)
 * [Download Full Paper (PDF)](宇宙基幹論_Ver6.0_完全版論文.pdf)
 
-☕ Support the Research
-[Support my research on Buy Me a Coffee](https://buymeacoffee.com/yokken)
+☕ [Support my research on Buy Me a Coffee](https://buymeacoffee.com/yokken)
