@@ -4,16 +4,11 @@ This repository is the official archive for the Universal Fundamental Theory (UF
 📄 Official Paper
 [疑わしいリンクは削除されました] 
 
-📚 Comprehensive Guide (Japanese / English)
-For a detailed explanation of the theory, please refer to the following chapters:
-
-Chapter 1: Quantum Substrate Dynamics (QSD)
-
-Chapter 2: Geometric Derivation of Constants
-
-Chapter 3: Resolving Cosmic and Geological Anomalies
-
-Chapter 4: Information Physics and Consciousness
+## 📚 Comprehensive Guide (English Edition)
+* [Chapter 1: Quantum Substrate Dynamics](Chapter1_EN.md)
+* [Chapter 2: Geometric Derivation of Constants](Chapter2_EN.md)
+* [Chapter 3: Resolving Cosmic and Geological Anomalies](Chapter3_EN.md)
+* [Chapter 4: Information Physics and the Emergence of Consciousness](Chapter4_EN.md)
 
 ☕ Support the Research
 [buymeacoffee.com/yokken](https://buymeacoffee.com/yokken)
